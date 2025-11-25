@@ -1,0 +1,21 @@
+2025-11-19 18:10:36 | INFO | CreateAccountPage | Creating a new account in HP Smart Desktop App
+2025-11-19 18:43:59 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-19 18:44:01 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-19 18:44:03 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-19 18:47:53 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-19 18:47:55 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-19 18:47:58 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-19 18:53:36 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-19 18:53:38 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-19 18:53:44 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-19 18:54:07 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-19 13:35:43 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-19 13:35:50 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-19 13:35:55 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-19 13:36:28 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-19 13:36:31 | INFO | CreateAccountPage | Fetching OTP from Mailsac inbox
+2025-11-19 13:41:50 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-19 13:41:54 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-19 13:41:55 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-19 13:42:16 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-19 13:42:17 | INFO | CreateAccountPage | Fetching OTP from Mailsac inbox

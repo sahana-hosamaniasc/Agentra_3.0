@@ -34,7 +34,7 @@ Naming Convention:
     - CONSTANTS in UPPER_SNAKE_CASE
     - Use meaningful names describing the UI control
 """
-
+from selenium.webdriver.common.by import By
 class LoginPageLocators:
     """
     Desktop (pywinauto) locators for HP Smart / test login app window.
@@ -45,3 +45,19 @@ class LoginPageLocators:
     LOGIN_BUTTON = {"title": "Sign in", "control_type": "Button"}
     SUCCESS_MESSAGE = {"title": "Login Successful", "control_type": "Text"}
     ERROR_MESSAGE = {"title": "Invalid credentials", "control_type": "Text"}
+
+
+class CreateAccountLocators:
+    """
+    Desktop (pywinauto) locators for HP Smart → Manage HP Account → Create Account flow.
+    """
+    MANAGE_HP_ACCOUNT_BTN = { "title": "Manage HP Account","control_type": "Button","found_index": 0}
+    CREATE_ACCOUNT_BTN = {"title": "Create account","control_type": "Button"}
+    CHROME_WINDOW = {"title_re": ".*Chrome.*","control_type": "Window"}
+    HP_ACCOUNT_CHROME_WINDOW = {"title_re": ".*(HP Account|Create Account).*","control_type": "Window"}
+    OTP_INPUT = {"title_re": ".*Enter verification code.*","control_type": "Edit"}
+    SUBMIT_OTP_BTN = {"title": "Verify","control_type": "Button"}
+    POPUP_OPEN_BTN = {"title_re": "Open","control_type": "Button"}
+    POPUP_CONTINUE_BTN = {"title_re": "Continue","control_type": "Button"}
+    EMAIL=(By.CSS_SELECTOR, "tr.ng-scope")
+    BODY=(By.TAG_NAME, "body")
