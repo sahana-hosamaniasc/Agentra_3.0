@@ -1,0 +1,73 @@
+2025-11-25 10:25:35 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 10:25:35 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 10:25:37 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 10:25:42 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 10:29:24 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 10:29:24 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 10:29:47 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 10:29:52 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 12:50:56 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 12:50:56 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 12:51:27 | WARNING | LaunchAppPage | Launch command timed out.
+2025-11-25 12:51:27 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 12:51:32 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 14:17:39 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 14:17:39 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 14:18:08 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 14:18:13 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 14:21:08 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 14:21:08 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 14:21:26 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 14:21:31 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 15:07:25 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 15:07:25 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 15:07:34 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 15:07:39 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 15:10:36 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 15:10:36 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 15:10:59 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 15:11:04 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 15:15:49 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 15:15:49 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 15:16:06 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 15:16:11 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 15:20:29 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 15:20:29 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 15:20:50 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 15:20:55 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 15:23:34 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 15:23:34 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 15:23:59 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 15:24:04 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 15:35:27 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 15:35:27 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 15:35:41 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 15:35:46 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 15:38:34 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 15:38:34 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 15:38:58 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 15:39:03 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 16:35:54 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 16:35:54 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 16:36:14 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 16:36:19 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 16:39:51 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 16:39:51 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 16:40:11 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 16:40:16 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 16:42:02 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 16:42:02 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 16:42:16 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 16:42:21 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 16:44:48 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 16:44:48 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 16:45:00 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 16:45:05 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 17:17:26 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 17:17:26 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 17:17:40 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 17:17:45 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 17:19:03 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 17:19:03 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 17:19:12 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 17:19:17 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.

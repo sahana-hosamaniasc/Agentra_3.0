@@ -1,0 +1,103 @@
+2025-11-25 10:25:42 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 10:25:50 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 10:25:54 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 10:29:52 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 10:29:54 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 10:29:55 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 10:30:34 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 12:51:32 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 12:52:29 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 12:52:34 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 12:53:15 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 14:18:13 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 14:18:16 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 14:18:17 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 14:18:42 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 14:21:31 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 14:21:33 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 14:21:34 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 14:21:49 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 14:22:42 | INFO | CreateAccountPage | Fetching OTP from Mailsac inbox
+2025-11-25 15:07:39 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 15:07:43 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 15:07:46 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 15:08:02 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 15:08:07 | INFO | CreateAccountPage | Fetching OTP from Mailsac inbox
+2025-11-25 15:11:04 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 15:11:06 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 15:11:07 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 15:11:23 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 15:11:28 | INFO | CreateAccountPage | Fetching OTP from Mailsac inbox
+2025-11-25 15:16:11 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 15:16:13 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 15:16:15 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 15:16:36 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 15:16:46 | INFO | CreateAccountPage | Fetching OTP from Mailsac inbox
+2025-11-25 15:20:55 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 15:20:59 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 15:21:06 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 15:21:36 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 15:24:04 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 15:24:05 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 15:24:06 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 15:24:31 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 15:35:46 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 15:35:48 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 15:35:50 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 15:36:10 | INFO | CreateAccountPage | HP Account Chrome window detected
+2025-11-25 15:36:10 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 15:36:20 | INFO | CreateAccountPage | Submitted account form for stagestack9263@mailsac.com
+2025-11-25 15:36:20 | INFO | CreateAccountPage | Fetching OTP from Mailsac inbox
+2025-11-25 15:39:03 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 15:39:05 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 15:39:07 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 15:39:31 | INFO | CreateAccountPage | HP Account Chrome window detected
+2025-11-25 15:39:31 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 15:39:41 | INFO | CreateAccountPage | Submitted account form for stagestack7057@mailsac.com
+2025-11-25 15:39:51 | INFO | CreateAccountPage | Fetching OTP from Mailsac inbox
+2025-11-25 16:36:19 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 16:36:21 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 16:36:22 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 16:36:47 | INFO | CreateAccountPage | HP Account Chrome window detected
+2025-11-25 16:36:47 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 16:36:58 | INFO | CreateAccountPage | Submitted account form for stagestack7162@mailsac.com
+2025-11-25 16:37:08 | INFO | CreateAccountPage | Fetching OTP from Mailsac inbox
+2025-11-25 16:37:29 | INFO | CreateAccountPage | OTP Received: 138674
+2025-11-25 16:37:36 | INFO | CreateAccountPage | OTP entered successfully
+2025-11-25 16:37:36 | INFO | CreateAccountPage | Switching back to HP Smart Desktop App
+2025-11-25 16:38:01 | INFO | CreateAccountPage | Successfully returned to HP Smart App
+2025-11-25 16:40:16 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 16:40:17 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 16:40:18 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 16:40:39 | INFO | CreateAccountPage | HP Account Chrome window detected
+2025-11-25 16:40:39 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 16:41:00 | INFO | CreateAccountPage | Submitted account form for stagestack2018@mailsac.com
+2025-11-25 16:42:21 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 16:42:22 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 16:42:24 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 16:42:43 | INFO | CreateAccountPage | HP Account Chrome window detected
+2025-11-25 16:42:43 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 16:42:57 | INFO | CreateAccountPage | Submitted account form for stagestack6290@mailsac.com
+2025-11-25 16:43:07 | INFO | CreateAccountPage | Fetching OTP from Mailsac inbox
+2025-11-25 16:43:25 | INFO | CreateAccountPage | OTP Received: 997434
+2025-11-25 16:43:32 | INFO | CreateAccountPage | OTP entered successfully
+2025-11-25 16:43:32 | INFO | CreateAccountPage | Switching back to HP Smart Desktop App
+2025-11-25 16:45:05 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 16:45:13 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 16:45:15 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 16:45:39 | INFO | CreateAccountPage | HP Account Chrome window detected
+2025-11-25 16:45:39 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 16:45:55 | INFO | CreateAccountPage | Submitted account form for stagestack4766@mailsac.com
+2025-11-25 16:46:05 | INFO | CreateAccountPage | Fetching OTP from Mailsac inbox
+2025-11-25 16:46:33 | INFO | CreateAccountPage | OTP Received: 926747
+2025-11-25 16:46:40 | INFO | CreateAccountPage | OTP entered successfully
+2025-11-25 16:46:40 | INFO | CreateAccountPage | Switching back to HP Smart Desktop App
+2025-11-25 16:47:30 | INFO | CreateAccountPage | Successfully returned to HP Smart App
+2025-11-25 17:17:45 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 17:19:17 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 17:19:26 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 17:19:33 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 17:19:56 | INFO | CreateAccountPage | HP Account Chrome window detected
+2025-11-25 17:19:56 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 17:20:13 | INFO | CreateAccountPage | Submitted account form for stagestack1045@mailsac.com
+2025-11-25 17:20:23 | INFO | CreateAccountPage | Fetching OTP from Mailsac inbox

@@ -156,3 +156,12 @@
 2025-11-19 09:20:30 | INFO | LoginPage | Clicking element (xpath, //button[@id='submit2']) - Attempt 2
 2025-11-19 09:20:40 | WARNING | LoginPage | Clicking element (xpath, //button[@id='submit2']) failed with TimeoutException. Retrying 2/2...
 2025-11-19 09:20:40 | INFO | LoginPage | Clicking element (xpath, //button[@id='submit2']) - Attempt 3
+2025-11-25 10:30:55 | INFO | LoginPage | Navigating to HP Portal Login URL
+2025-11-25 12:53:59 | INFO | LoginPage | Navigating to HP Portal Login URL
+2025-11-25 14:19:04 | INFO | LoginPage | Navigating to HP Portal Login URL
+2025-11-25 14:23:10 | INFO | LoginPage | Navigating to HP Portal Login URL
+2025-11-25 15:21:52 | INFO | LoginPage | Navigating to HP Portal Login URL
+2025-11-25 15:24:51 | INFO | LoginPage | Navigating to HP Portal Login URL
+2025-11-25 15:40:19 | INFO | LoginPage | Navigating to HP Portal Login URL
+2025-11-25 16:47:49 | INFO | LoginPage | Navigating to HP Portal Login URL
+2025-11-25 17:20:50 | INFO | LoginPage | Navigating to HP Portal Login URL

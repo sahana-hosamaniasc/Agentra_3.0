@@ -1,0 +1,12 @@
+2025-11-25 17:19:03 | INFO | tests.test_launchapp | Launching the HP Smart Desktop App
+2025-11-25 17:19:03 | INFO | LaunchAppPage | Navigating to HP Portal Login URL
+2025-11-25 17:19:03 | INFO | LaunchAppPage | Attempt 1 to launch HPSMart app.
+2025-11-25 17:19:12 | INFO | LaunchAppPage | Attempt 1: App is still loading... (0s elapsed)
+2025-11-25 17:19:17 | INFO | LaunchAppPage | App loaded successfully after 5 seconds on attempt 1.
+2025-11-25 17:19:17 | INFO | CreateAccountPage | Opening Manage HP Account section
+2025-11-25 17:19:26 | INFO | CreateAccountPage | Clicking Create Account button
+2025-11-25 17:19:33 | INFO | CreateAccountPage | Waiting for HP Account Chrome window
+2025-11-25 17:19:56 | INFO | CreateAccountPage | HP Account Chrome window detected
+2025-11-25 17:19:56 | INFO | CreateAccountPage | Filling Create Account form
+2025-11-25 17:20:13 | INFO | CreateAccountPage | Submitted account form for stagestack1045@mailsac.com
+2025-11-25 17:20:23 | INFO | CreateAccountPage | Fetching OTP from Mailsac inbox

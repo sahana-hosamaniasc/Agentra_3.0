@@ -1,0 +1,2 @@
+2025-11-25 17:20:50 | INFO | tests.test_login | Starting test_login_web with user=student
+2025-11-25 17:20:50 | INFO | LoginPage | Navigating to HP Portal Login URL

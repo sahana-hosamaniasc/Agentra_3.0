@@ -1,1 +1,0 @@
-Entering 'student' into (id, username) - Attempt 1
